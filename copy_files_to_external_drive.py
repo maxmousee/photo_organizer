@@ -1,8 +1,6 @@
 import os
 import shutil
 import ntpath
-from time import sleep
-
 import progressbar
 
 src_path = "/Users/maxmouse/Pictures/Photos Library.photoslibrary/originals"
